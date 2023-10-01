@@ -1,7 +1,6 @@
 import cv2
 import pyautogui
 
-# Specify the screen resolution
 screen_width, screen_height = pyautogui.size()
 
 # Define the codec and create a VideoWriter object with MP4 format
